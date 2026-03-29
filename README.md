@@ -1,16 +1,21 @@
 ## Hi there 👋
+I'm Pavel
+I'm a uni student currently figuring out how to build stuff that actually works. Still learning the ropes, but staying busy with a few different projects.
 
-<!--
-**paveql/paveql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm working with
+Android: Messing around in Android Studio.
 
-Here are some ideas to get you started:
+Languages: Mainly Python, C++, and C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Math/Docs: I use LaTeX to keep my notes and formulas looking clean.
+
+What's on my plate
+Learning mobile app dev.
+
+Getting better at logic and backend stuff with C++ and Python.
+
+Handling uni coursework and some basic technical design.
+
+Reach out
+If you want to talk shop or have any tips:
+Email: pavelmuntean2015@gmail.com
